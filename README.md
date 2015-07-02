@@ -1,6 +1,6 @@
 # Instagram Statistics
 
-* Contributors: (philipskinner)[https://github.com/philipskinner], (ericdevries)[https://github.com/ericdevries], (verduijn)[https://github.com/verduijn]
+* Contributors: [philipskinner](https://github.com/philipskinner), [ericdevries](https://github.com/ericdevries), [verduijn](https://github.com/verduijn)
 * Tags: widgets, instagram, statistics
 * Requires at least Wordpress version: 3.0
 * Tested up to version: 4.2.2
